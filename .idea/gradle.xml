@@ -15,7 +15,6 @@
             <option value="$PROJECT_DIR$/1001noti" />
             <option value="$PROJECT_DIR$/1002dialog" />
             <option value="$PROJECT_DIR$/1004eventhandling" />
-            <option value="$PROJECT_DIR$/app" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

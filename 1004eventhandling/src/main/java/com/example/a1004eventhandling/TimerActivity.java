@@ -42,6 +42,7 @@ public class TimerActivity extends AppCompatActivity {
                 idx = idx + 1;
             }
 
+            
             @Override
             public void onFinish() {
                 txt.setText("타이머 종료");
