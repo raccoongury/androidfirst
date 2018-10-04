@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="player">
+        <item>피카츄</item>
+        <item>라이츄</item>
+        <item>파이리</item>
+        <item>꼬부기</item>
+        <item>버터플</item>
+    </string-array>
+</resources>
