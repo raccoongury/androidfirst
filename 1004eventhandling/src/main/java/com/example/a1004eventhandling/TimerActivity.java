@@ -41,7 +41,6 @@ public class TimerActivity extends AppCompatActivity {
                 txt.setText(ar[idx%5]);
                 idx = idx + 1;
             }
-
             
             @Override
             public void onFinish() {
