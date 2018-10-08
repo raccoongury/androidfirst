@@ -17,6 +17,7 @@
             <option value="$PROJECT_DIR$/1004eventhandling" />
             <option value="$PROJECT_DIR$/1004resourceuse" />
             <option value="$PROJECT_DIR$/1005persistencysave" />
+            <option value="$PROJECT_DIR$/1008databaseuse" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
