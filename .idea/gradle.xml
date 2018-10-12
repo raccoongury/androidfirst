@@ -19,6 +19,8 @@
             <option value="$PROJECT_DIR$/1005persistencysave" />
             <option value="$PROJECT_DIR$/1008databaseuse" />
             <option value="$PROJECT_DIR$/1010listdisplay" />
+            <option value="$PROJECT_DIR$/1011view" />
+            <option value="$PROJECT_DIR$/1012webview" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

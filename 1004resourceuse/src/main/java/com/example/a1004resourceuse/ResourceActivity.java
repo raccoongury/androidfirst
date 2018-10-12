@@ -16,7 +16,7 @@ public class ResourceActivity extends AppCompatActivity {
         final ImageView imageView = (ImageView)findViewById(R.id.imageView);
         //애니메이션 찾아오기
         Animation ani1 = AnimationUtils.loadAnimation(
-                getApplicationContext(),R.anim.in);
+                getApplicationContext(),R.anim.
 
 //        Animation ani2 = AnimationUtils.loadAnimation(
 //                getApplicationContext(),R.anim.move);
