@@ -39,7 +39,4 @@
         </activity>
     </application>
 
-    <!--AndroidManifest.xml 파일에 인터넷 사용 권한을 설정-->
-    <uses-permission android:name="android.permission.INTERNET" />
-
 </manifest>
