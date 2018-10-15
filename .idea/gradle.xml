@@ -21,6 +21,7 @@
             <option value="$PROJECT_DIR$/1010listdisplay" />
             <option value="$PROJECT_DIR$/1011view" />
             <option value="$PROJECT_DIR$/1012webview" />
+            <option value="$PROJECT_DIR$/1015activity" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
