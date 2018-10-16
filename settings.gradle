@@ -1,1 +1,1 @@
-include ':0927first', ':0927second', ':0928view', ':1001layout', ':1001noti', ':1002dialog', ':1004eventhandling', ':1004resourceuse', ':1005persistencysave', ':1008databaseuse', ':1010listdisplay', ':1011view', ':1012webview', ':1015activity'
+include ':0927first', ':0927second', ':0928view', ':1001layout', ':1001noti', ':1002dialog', ':1004eventhandling', ':1004resourceuse', ':1005persistencysave', ':1008databaseuse', ':1010listdisplay', ':1011view', ':1012webview', ':1015activity', ':1016activity'
