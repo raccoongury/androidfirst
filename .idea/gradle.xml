@@ -23,6 +23,8 @@
             <option value="$PROJECT_DIR$/1012webview" />
             <option value="$PROJECT_DIR$/1015activity" />
             <option value="$PROJECT_DIR$/1016activity" />
+            <option value="$PROJECT_DIR$/1017handler" />
+            <option value="$PROJECT_DIR$/1017thread" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
