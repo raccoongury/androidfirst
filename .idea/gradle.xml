@@ -25,6 +25,9 @@
             <option value="$PROJECT_DIR$/1016activity" />
             <option value="$PROJECT_DIR$/1017handler" />
             <option value="$PROJECT_DIR$/1017thread" />
+            <option value="$PROJECT_DIR$/1018tcp" />
+            <option value="$PROJECT_DIR$/1018thread" />
+            <option value="$PROJECT_DIR$/1019urlcommunication" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
