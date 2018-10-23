@@ -28,6 +28,7 @@
             <option value="$PROJECT_DIR$/1018tcp" />
             <option value="$PROJECT_DIR$/1018thread" />
             <option value="$PROJECT_DIR$/1019urlcommunication" />
+            <option value="$PROJECT_DIR$/1022parsing" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
