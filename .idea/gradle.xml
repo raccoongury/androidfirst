@@ -30,6 +30,7 @@
             <option value="$PROJECT_DIR$/1019urlcommunication" />
             <option value="$PROJECT_DIR$/1022parsing" />
             <option value="$PROJECT_DIR$/1023jsonparsing" />
+            <option value="$PROJECT_DIR$/1024androidparsing" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
