@@ -31,6 +31,10 @@
             <option value="$PROJECT_DIR$/1022parsing" />
             <option value="$PROJECT_DIR$/1023jsonparsing" />
             <option value="$PROJECT_DIR$/1024androidparsing" />
+            <option value="$PROJECT_DIR$/1025androidparsing" />
+            <option value="$PROJECT_DIR$/1025broadcast1" />
+            <option value="$PROJECT_DIR$/1025broadcast2" />
+            <option value="$PROJECT_DIR$/1025service" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
