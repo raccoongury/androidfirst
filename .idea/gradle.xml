@@ -35,6 +35,9 @@
             <option value="$PROJECT_DIR$/1025broadcast1" />
             <option value="$PROJECT_DIR$/1025broadcast2" />
             <option value="$PROJECT_DIR$/1025service" />
+            <option value="$PROJECT_DIR$/1026alarm" />
+            <option value="$PROJECT_DIR$/1026datashare" />
+            <option value="$PROJECT_DIR$/1026service" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
